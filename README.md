@@ -1,3 +1,3 @@
 # Challenge
 
-For [https://learnjavascript.online](learnjavascript.online)
+For [https://learnjavascript.online](https://learnjavascript.online)
